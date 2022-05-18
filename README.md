@@ -12,7 +12,7 @@
 Для честной оценки многоуровневой классификации мы будем использовать видоизмененную метрику **F1**, взвешенную на размер 
 выборки класса(при подсчете учитываются только листовые категории):
 
-<img src="https://github.com/ShirokovSe/BotVanGog/blob/main/Example/generated.png](https://github.com/ShirokovSe/Hierarchial-classifier_for_products_categorization/blob/main/additional/F1-score.png" width="150">
+<img src="https://github.com/ShirokovSe/Hierarchial-classifier_for_products_categorization/blob/main/additional/F1-score.png" width="750">
 
 ## Данные
 
